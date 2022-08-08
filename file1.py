@@ -1,0 +1,6 @@
+f = open("demofile2.txt", "w")
+f.write("education, discipline that is concerned with  methods \n of teaching and learning in schools \n or school-like environments  \n")
+print()
+f.close()
+# f = open("demofile2.txt", "r")
+# print(f.read()) 
